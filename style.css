@@ -1,0 +1,20 @@
+
+
+h1, h2 {
+    text-align: center;
+}
+
+
+h2 {
+    color: #CA00EE;
+}
+
+div {
+    margin: 10vh;
+}
+
+a:hover {
+    color: #CA00EE;
+    background-color: transparent;
+    text-decoration: underline;
+  }
